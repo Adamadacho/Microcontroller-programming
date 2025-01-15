@@ -11,7 +11,7 @@ void loop() {
 // Odczyt stanu przycisku
 int buttonState = digitalRead(buttonPin);
 // Sprawdzenie stanu przycisku
-if (buttonState == HIGH) {
+if (buttonState == LOW) {
 // Włączenie LED
 digitalWrite(ledPin, HIGH);
 } else {
