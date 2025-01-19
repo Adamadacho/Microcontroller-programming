@@ -15,9 +15,9 @@ A summary of theoretical knowledge about Arduino microcontrollers.
 How to Use?
 Clone the repository:
 git clone https://github.com/username/Microcontroller-programming.git
-cd arduino-labs
+cd Microcontroller-programming
 
-git clone https://github.com/username/arduino-labs.git
+git clone https://github.com/username/Microcontroller-programming.git
 cd Microcontroller-programming
 Set up your environment:
 
