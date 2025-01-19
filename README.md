@@ -12,24 +12,7 @@ Report:
 Documentation describing the exercises performed, conclusions drawn, and operation diagrams.
 A summary of theoretical knowledge about Arduino microcontrollers.
 
-How to Use?
-Clone the repository:
-git clone https://github.com/username/Microcontroller-programming.git
-cd Microcontroller-programming
-
-git clone https://github.com/username/Microcontroller-programming.git
-cd Microcontroller-programming
-Set up your environment:
-
-Install Arduino IDE.
-Copy the desired code from the choosen folder into the Arduino IDE.
-Upload code to Arduino:
-
-Select the correct COM port and microcontroller model in the Arduino IDE.
-Set up the hardware according to the diagrams in the report.
-Upload the program and test its functionality.
-
-Tasks Included in the Repository
+Tasks Included in the Repository:
 
 Laboratory 1: GPIO Ports
 LED blinking.
@@ -45,13 +28,14 @@ Controlling LEDs via Bluetooth commands.
 Sequential activation of LEDs.
 Adjusting LED brightness using PWM signals.
 
-Requirements
+Requirements:
 Arduino Nano or Uno microcontroller.
 RF modules (FS100A) and Bluetooth module (HC-06).
 Resistors, LEDs, buttons.
+
 Libraries:
 VirtualWire
 
-Authors
+Author:
 Adam Kubliński
 Student at the University of Bielsko-Biała.
